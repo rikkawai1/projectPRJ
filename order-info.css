@@ -1,0 +1,9 @@
+.welcome-wrapper{
+    padding:  1rem 2rem;
+    background-color: var(--primary-color);
+}
+.welcome-wrapper-title{
+    color: var (--background-color);
+    font-size: 24px;
+    margin:0;
+}
